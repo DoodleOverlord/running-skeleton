@@ -3,7 +3,7 @@
     "@running-skeleton": {
       "updates": [
         {
-          "version": "1.1.0",
+          "version": "1.1.1",
           "update_link": "https://raw.githubusercontent.com/DoodleOverlord/running-skeleton/main/Running-Skeleton-v1.1.1.xpi"
         }
       ]
