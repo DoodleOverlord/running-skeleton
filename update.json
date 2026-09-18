@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "@running-skeleton": {
+      "updates": [
+        {
+          "version": "1.1.0",
+          "update_link": ""
+        }
+      ]
+    }
+  }
+}
