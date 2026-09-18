@@ -5,6 +5,8 @@ As mentioned earlier, the older versions of the extension are located in here in
 
 -- UPDATE LOG --
 
+v1.1.1 | Released September 18th, 2026 | Added the "update_url" manifest key for automatic updates.
+
 v1.1.0 | Released September 17th, 2026 | Added Achievements, custom sounds & QoL settings
 
 v1.0.1 | Released August 27th, 2026 | Minor bug fixes for audio & spawn timing
