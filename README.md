@@ -7,6 +7,8 @@ WARNING | Downgrading may erase your data. Installing an older version of Runnin
 
 -- UPDATE LOG --
 
+v1.2.0 | Released September 20th, 2026 | Major UI overhaul, custom GIFs, playback speed, keybinds, new achievements & backend improvements.
+
 v1.1.1 | Released September 18th, 2026 | Added the "update_url" manifest key for automatic updates.
 
 v1.1.0 | Released September 17th, 2026 | Added Achievements, custom sounds & QoL settings
