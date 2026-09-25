@@ -7,6 +7,8 @@ WARNING | Downgrading may erase your data. Installing an older version of Runnin
 
 -- UPDATE LOG --
 
+v1.3.0 | Released September 25th, 2026 | Added presets, made the skeleton clickable, and 7 new achievements
+
 v1.2.1 | Released September 22nd, 2026 | Added hover tips, site spawn availability info and some UI & backend improvements
 
 v1.2.0 | Released September 20th, 2026 | Major UI overhaul, custom GIFs, playback speed, keybinds, new achievements & backend improvements
